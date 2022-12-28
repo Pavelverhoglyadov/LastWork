@@ -25,5 +25,6 @@ void PrintArray(string[] array)
     Console.WriteLine();
 }
 
+
 string[] shortArray = FillArray(array);
 PrintArray(shortArray);
