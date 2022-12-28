@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\code\LastWork\file\bin\Debug\net7.0\file.exe
+C:\Users\Павел\Desktop\code\LastWork\file\bin\Debug\net7.0\file.deps.json
+C:\Users\Павел\Desktop\code\LastWork\file\bin\Debug\net7.0\file.runtimeconfig.json
+C:\Users\Павел\Desktop\code\LastWork\file\bin\Debug\net7.0\file.dll
+C:\Users\Павел\Desktop\code\LastWork\file\bin\Debug\net7.0\file.pdb
+C:\Users\Павел\Desktop\code\LastWork\file\obj\Debug\net7.0\file.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\code\LastWork\file\obj\Debug\net7.0\file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\code\LastWork\file\obj\Debug\net7.0\file.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\code\LastWork\file\obj\Debug\net7.0\file.AssemblyInfo.cs
+C:\Users\Павел\Desktop\code\LastWork\file\obj\Debug\net7.0\file.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\code\LastWork\file\obj\Debug\net7.0\file.dll
+C:\Users\Павел\Desktop\code\LastWork\file\obj\Debug\net7.0\refint\file.dll
+C:\Users\Павел\Desktop\code\LastWork\file\obj\Debug\net7.0\file.pdb
+C:\Users\Павел\Desktop\code\LastWork\file\obj\Debug\net7.0\file.genruntimeconfig.cache
+C:\Users\Павел\Desktop\code\LastWork\file\obj\Debug\net7.0\ref\file.dll
